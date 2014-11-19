@@ -1,7 +1,7 @@
 Package.describe({
   name: 'timmyg13:countup',
-  summary: 'countUp.js packaged for meteor',
-  version: '1.0.1',
+  summary: 'countUp.js v1.3.1 packaged for meteor',
+  version: '1.0.2',
   git: 'https://github.com/timmyg/meteor-countup'
 });
 
