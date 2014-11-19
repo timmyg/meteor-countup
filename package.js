@@ -1,8 +1,8 @@
 Package.describe({
   name: 'timmyg13:countup',
-  summary: ' /* Fill me in! */ ',
-  version: '1.0.0',
-  git: ' /* Fill me in! */ '
+  summary: 'countUp.js packaged for meteor',
+  version: '1.0.1',
+  git: 'https://github.com/timmyg/meteor-countup'
 });
 
 Package.onUse(function(api) {
